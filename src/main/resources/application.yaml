@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: MusicPlatform
+server:
+  port: 8080
