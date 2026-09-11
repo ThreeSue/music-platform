@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sue</groupId>
-    <artifactId>MusicPlatform</artifactId>
+    <artifactId>test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MusicPlatform</name>
-    <description>MusicPlatform</description>
+    <name>test</name>
+    <description>test</description>
     <url/>
     <licenses>
         <license/>

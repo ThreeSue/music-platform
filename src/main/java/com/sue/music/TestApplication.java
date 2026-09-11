@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @MapperScan("com.sue.music.mapper")
-public class MusicPlatformApplication {
+public class TestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MusicPlatformApplication.class, args);
+        SpringApplication.run(TestApplication.class, args);
     }
 
 }
